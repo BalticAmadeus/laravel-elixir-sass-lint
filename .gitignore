@@ -1,0 +1,8 @@
+# Folders
+.idea
+.sonar
+node_modules
+
+# Files
+.sonar_lock
+npm_debug.log
