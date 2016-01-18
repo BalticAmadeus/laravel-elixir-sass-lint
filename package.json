@@ -1,6 +1,6 @@
 {
   "name": "laravel-elixir-sass-lint",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Laravel Elixir Sass Lint Extension",
   "author": "Baltic Amadeus <info@ba.lt> (http://www.ba.lt/en)",
   "license": "MIT",
@@ -25,6 +25,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "gulp-sass-lint": "^1.1.0"
+    "gulp-sass-lint": "^1.1.1"
   }
 }
